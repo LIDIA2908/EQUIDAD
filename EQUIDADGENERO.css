@@ -1,0 +1,65 @@
+body{
+	background-image: url(http://www.que-leer.com/wp-content/uploads/2019/03/libros-sobre-feminismo-mujer-770x405.jpg);
+	background-size: 85%;
+}
+h1{
+	font-family: 'Abril Fatface', cursive;
+	font-size: 50px;
+	color:yellow;
+	text-align: center;
+	font-variant-position: super;
+}
+hr{
+	width: 85%;
+	height: 20px;
+	border: solid;
+	border-color: blue;
+	background: blue;
+	border-radius: 1cm;
+}
+
+h2{
+	font-family: 'Questrial', sans-serif;
+	font-size: 30px;
+	color:yellow;
+	text-align: center;
+	font-variant-position: super;
+}
+
+p{
+	width: 32%;
+	border-width: 15px;
+	border-right-style: solid;
+	border-color: white;
+	background-color: pink;
+	border-radius: 0.2cm;
+}
+img{
+
+	float: right;
+	position:relative;
+	right: 35%;
+}
+ul{
+	list-style-type: lower-greek;
+}
+.gift1{
+	position: relative;
+	left: 50%
+	width:5cm;
+	height:5cm;
+}
+.png1{
+	position: relative;
+	right: 50%
+	width:5cm;
+	height:5cm;
+}
+
+h3{
+	font-family: 'Questrial', sans-serif;
+	font-size: 30px;
+	color:yellow;
+	text-align: center;
+	font-variant-position: super;
+}
